@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/LMNx9-JOHNY/LMNxOLD-Clone/blob/main/review.jpg" width="600px" alt="Preview">
+  <img src="https://github.com/LMNx9-JOHNY/LMNxOLD-Clone/blob/main/review.jpg" width="100px" alt="Tool Screenshot">
 </p>
 
 ---
