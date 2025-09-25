@@ -2,16 +2,14 @@
   🔥 LMNx9 FB OLD ID CLONE v1.0
 </h1>
 
----
-
 <p align="center">
-  <img src="https://github.com/LMNx9-JOHNY/LMNxOLD-Clone/blob/main/review.png" width="600px" alt="Preview">
+  <img src="https://github.com/LMNx9-JOHNY/LMNxOLD-Clone/blob/main/review.jpg" width="600px" alt="Preview">
 </p>
 
 ---
 
 - 🟩 **Tool Name** : `LMNx9 OLD CLONE`
-- 🟨 **Status** : Free & 🔥 Fire  
+- 🟨 **Status** : Free & Fire 🔥
 - 🟧 **Support** : Only **64bit**
 
 ---
