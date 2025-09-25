@@ -1,27 +1,19 @@
-# LIMONxSIJUKA-Clone
-# Paid Tool
+# LMNx9 FILE MAKER v7.0
 
-pkg update && pkg upgrade
+ - 🟩 Tool : LMNx9 OLD CLONE
+ - 🟨 This Tool Free & Fire 
+ - 🟧 Support Only 64bit
+ 
+![](https://github.com/LMNx9-JOHNY/LMNxOLD-Clone/blob/main/review.png)
 
-pkg install python
+# Installation :
+    rm -rf LMNxOLD-Clone
+    apt update && apt upgrade
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/LMNxOLD-Clone
+    dpkg --configure -a
+    cd LMNxOLD-Clone
+    chmod +x *
+    python old.py
 
-pkg install git
-
-pip install requests
-
-pip install bs4
-
-pip install rich
-
-pip install michanize
-
-pip install future
-
-pip install urllib3
-
-
-git clone https://github.com/LMNx9-JOHNY/LIMONxSIJUKA-Clone.git
-
-cd LIMONxSIJUKA-Clone
-
-python LIMONxSIJUKA.py
+# [JOIN TELEGRAM](https://t.me/TM_LMNx9)
+# [CONTACT DEVELOPER](https://t.me/x_LMNx9)
